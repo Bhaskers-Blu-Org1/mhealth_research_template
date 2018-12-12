@@ -1,0 +1,7 @@
+This is a collection of code modules that provide a few simple implementations and templates of functionalities that may be useful when developing an iOS application for conducting mHealth research studies. The primary features include:
+- Enabling study enrollment and obtaining informed consent from study participants
+- Collecting and storing data from the HealthKit, CoreMotion, and CoreLocation services
+- Sending collected data to a secure REST api service
+- Raising iOS notifications to an app user
+- Enabling an app user to input relevant study parameters
+- Simple UI templates related to an mHealth study
